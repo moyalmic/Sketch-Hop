@@ -13,18 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4e843d-873d-4ee2-9a86-ff17babbf8ff" name="Default Changelist" comment="First commit, game is WIP">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/game_over.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/jump_sound.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/new_game.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/trampoline_sound.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprites.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b4e843d-873d-4ee2-9a86-ff17babbf8ff" name="Default Changelist" comment="Added used sprites" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609229620501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit, game is WIP">
+      <created>1644834170618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644834170618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added used sprites">
+      <created>1644834185739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644834185739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +171,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="First commit, game is WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, game is WIP" />
+    <MESSAGE value="Added used sprites" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added used sprites" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
