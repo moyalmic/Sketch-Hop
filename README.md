@@ -5,8 +5,9 @@ Sketch Hop is a 2D platformer style game.
 Your goal is to jump up the platforms as high as you can before falling off.
 
 ### How to run Sketch Hop
-1. Navigate to the directory containing the source code and sprites folder
-2. Type in:
+1. Make sure you have all the necessary dependencies listed in the [requirements](requirements.txt) file.
+2. Navigate to the directory containing the source code and sprites folder
+3. Type in:
 
         python main.py
     (Optionally you can add an integer argument selecting your character)
@@ -15,7 +16,7 @@ Your goal is to jump up the platforms as high as you can before falling off.
     or
         
         python main.py 2
-3. Enjoy the game!
+4. Enjoy the game!
 
 ### How to run pytests for Sketch Hop
 1. Navigate to the directory containing the Tests.py folder
